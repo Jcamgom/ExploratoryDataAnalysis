@@ -1,0 +1,9 @@
+
+#Los hoteles están experimentando una alta tasa de cancelaciones, lo que afecta negativamente la planificación y los ingresos. Es crucial entender los factores que influyen en las cancelaciones para mejorar las políticas de reservas y reducir la tasa de cancelación.
+#Justificación para resolverlo con Ciencia de Datos o IA: La ciencia de datos puede analizar los patrones de cancelación y el tiempo de anticipación de las reservas. Utilizando modelos de machine learning, se pueden predecir las probabilidades de cancelación basadas en el tiempo de anticipación. Esto permitirá a los hoteles ajustar sus políticas de reservas y estrategias de marketing para reducir las cancelaciones y mejorar la ocupación.
+#Pregunta SMART:¿Cómo afecta el tiempo de anticipación de la reserva (lead time), a la tasa de cancelación de reservas en los hoteles durante el 1 de julio de 2015 hasta el 31 de agosto de 2017.
+#Specific:La pregunta es específica ya que se enfoca en la relación entre el tiempo de anticipación de la reserva (lead time) y la tasa de cancelación de reservas.
+#Measurable:La pregunta es medible porque se puede cuantificar el tiempo de anticipación de la reserva y la tasa de cancelación.
+#Achievable:La pregunta es accionable ya que podemos utilizar técnicas de análisis de datos y modelos estadísticos para investigar la relación entre estas dos variables.
+#Relevant:La pregunta es relevante para la gestión hotelera, ya que entender esta relación puede ayudar a reducir las cancelaciones y mejorar la planificación y los ingresos.
+#Time-bound:La pregunta está limitada en el tiempo al período del 1 de julio de 2015 hasta el 31 de agosto de 2017.
