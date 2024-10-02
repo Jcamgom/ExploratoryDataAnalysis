@@ -1,0 +1,17 @@
+###**SMART QUESTION**
+
+**Problema:** El aumento en el número de cancelaciones de reservas ha afectado negativamente la planificación y los ingresos de los hoteles. Es crucial identificar los factores que influyen en estas cancelaciones para ajustar las políticas de reserva y reducir su impacto. Comprender estos factores permitirá a los hoteles mejorar la gestión y minimizar las pérdidas.
+
+**Justificación** para resolverlo con Ciencia de Datos: Se puede analizar los patrones de cancelación y el tiempo de anticipación de las reservas. Utilizando modelos se pueden predecir las probabilidades de cancelación basadas en las diferentes variables a disposición. Esto permitirá a los hoteles ajustar sus políticas de reservas y estrategias de marketing para reducir las cancelaciones y mejorar la ocupación.
+
+**Pregunta SMART:**¿Cuáles son las variables que muestran una correlación estadísticamente significativa con la tasa de cancelación de reservas en hoteles durante el período del 1 de julio de 2015 al 31 de agosto de 2017, y cómo podemos utilizar esta información para reducir futuras cancelaciones?
+
+**Specific:** Pregunta por variables con correlación respecto a la tasa de cancelación.
+
+**Measurable:** El coeficiente de correlación es una métrica clara.
+
+**Achievable:** Los datos de cancelaciones pueden analizarse estadísticamente.
+
+**Relevant:** La pregunta es relevante para la gestión hotelera, ya que entender esta relación puede ayudar a reducir las cancelaciones y mejorar la planificación y los ingresos.
+
+**Time-bound:** La pregunta está limitada en el tiempo al período del 1 de julio de 2015 hasta el 31 de agosto de 2017.
